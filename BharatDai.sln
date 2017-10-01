@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "BharatDai", "BharatDai.phpproj", "{D8F97339-4006-4191-AB88-B4DA3BE4D5A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F97339-4006-4191-AB88-B4DA3BE4D5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F97339-4006-4191-AB88-B4DA3BE4D5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F112061-8E10-4E8C-8DE4-B8511A3247D5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+.home-front-background{
+background-image: url('../images/BharatSamariHomeBack.jpg');
+}
+
+.breadcrumb h2,.link-yaku,.link-yaku:focus span,.link-yaku:hover span{
+   color: rgba(0, 0, 0, 0.45);
+
+}
+
+.main-music-player{
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.open-menu span{
+    background:rgba(0, 0, 0, 0.45);
+}
+
+#home{
+position: absolute;left: 0;top: 0;
+}
+
+.js-height-full star{
+    height: 955px;
+} 
+.js-height-full{
+    height: 994px;
+} 
+
+#facebook, #twitter,#googlePlus,#youtube,#soundcloud{
+    background-color: none;
+}
+
+.gallery{
+    padding-bottom:0;
+    padding-top:150px;
+}
+
+.leftTopHeader {
+    display: inline-flex;
+    float: left;
+    position: relative;
+}
+
+.btn-black-color{
+    color: #000;
+}
+
+.inline{
+    display: inline-flex;
+}
+
+.p-r-40{
+    padding-left: 40px;
+}
+
+.back-trans{
+    background-color: transparent;
+}
